@@ -16,5 +16,6 @@ namespace ProjectAPi.Data
         public DbSet<Hours> Hours { get; set; }
 
         public DbSet<Users> Users { get; set; }
+        //test
     }
 }
