@@ -1,3 +1,7 @@
-# ProjectAPi
+I created a Rest API with the .net framework
 
-Learned how to write a Rest=api with the .net6 framework
+What have I Learned ?
+
+How to connect a Rest API to an Azure server
+
+Custom Crud requests for the Rest API
